@@ -3,9 +3,9 @@ The primary goal of this project is to build a complete, data-driven web applica
 
 ## Technologies Used
 - Backend: C#, .NET 8 MVC
-- Database: Microsoft SQL Server, Entity Framework Core 3.1 (Code-First)
+- Database: Microsoft SQL Server, Entity Framework Core (Code-First)
 - Authentication: ASP.NET Identity
-- Frontend: HTML, CSS, Bootstrap 4, JQuery
+- Frontend: HTML, CSS, Bootstrap, JQuery
 - Admin Theme: AdminLTE
 - Architecture:
   - Repository Pattern
